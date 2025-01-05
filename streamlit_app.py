@@ -1,5 +1,4 @@
 import streamlit as st
-
 st.title("🎈 Comoara fermecata")
 st.write(
     "\n🍕Welcome to Python Pizza Deliveries!🍕\n"
